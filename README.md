@@ -1,6 +1,5 @@
 Hi 👋, I'm Rohit Kumar
 
-
 Experienced Software Developer adept in BMC Control-M, Logic apps, ADF, and .NET C#, with close to 2 years of practice as a trustworthy Software Developer. 
 
 Currently Scholar Trainee at Wipro Technologies with a Bachelor’s degree in Computer Applications and pursuing M.Tech in Software Systems from BITS Pilani. 
@@ -12,3 +11,6 @@ Ardent Computech Pvt. Ltd.: Full Stack Web Development Project on Online Examina
 Internshala Training: Game Development project on Connect 4 using Core Java.
 
 Hobbies include Video Games, Travelling, and Football.
+
+Socials
+[![Twitter](https://pngtree.com/freepng/twitter-social-media-round-icon_8704823.html)](https://twitter.com/RohitK181) 
