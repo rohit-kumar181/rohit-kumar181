@@ -12,5 +12,7 @@ Internshala Training: Game Development project on Connect 4 using Core Java.
 
 Hobbies include Video Games, Travelling, and Football.
 
-Socials
-[![Twitter](https://pngtree.com/freepng/twitter-social-media-round-icon_8704823.html)](https://twitter.com/RohitK181) 
+🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit323) 
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/RohitK181) 
